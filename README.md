@@ -1,6 +1,6 @@
 # PHP OOP Notes
 
-- PHP does not support multiple inheritance. `Traits` are used to solve this, like an abstract class, you cannot instantiate it.
+- PHP does not support multiple inheritance. `Traits` are used to solve this and it cannot be instantiate.
 - `Overriding` is extending a class and then create same method name to override parent method.
 - `Final` prevent child classes from overriding a method & a `Final` declared class cannot be extended.
 - `Abstract` classes cannot be instantiated, Their sole purpose is to provide common methods and properties (to provide functionality)
