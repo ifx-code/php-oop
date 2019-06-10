@@ -8,3 +8,4 @@
 - `Polymorphism` is multiple classes using the same methods by implementing the same `interface` but have different purpose & functionalities.
 - PHP Class can extend ONLY 1 `Abstract` class but implement multiple `interface`.
 - We only defined methods names in `interface`
+- `typehinting` is giving the type to a particular argument in a class method
